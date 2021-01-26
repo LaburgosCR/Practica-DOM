@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b58bf757-96f7-4eb5-bf0c-65825a7b7900.ws-us03.gitpod.io",
+    "address": "https://a7d401ec-019a-48b4-95d7-5e42e0768ffd.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -143,7 +143,7 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "es",
